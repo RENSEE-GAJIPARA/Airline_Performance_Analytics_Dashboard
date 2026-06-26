@@ -45,7 +45,8 @@ This Power BI project analyzes **US domestic flight performance** from 2019 to 2
 
 ### 🖥️ Main Overview Page
 
-![Dashboard Preview](Dashboard_Preview.png)
+<img width="1316" height="741" alt="Dashboard Preview" src="https://github.com/user-attachments/assets/c77c0f5f-b885-42de-aa79-e30845cfd503" />
+
 
 > The Overview page features KPI cards, a donut chart showing flight outcome distribution, a gauge measuring on-time rate vs. the 80% industry benchmark, and a stacked bar chart tracking yearly flight outcomes from 2019 to 2023.
 
@@ -53,7 +54,8 @@ This Power BI project analyzes **US domestic flight performance** from 2019 to 2
 
 ### 🗺️ Custom Tooltip — Airport Detail
 
-![Custom Tooltip](customized_Tooltip.png)
+<img width="411" height="311" alt="customized Tooltip" src="https://github.com/user-attachments/assets/cdadb107-6fd1-45d4-841e-ec581535a5e9" />
+
 
 > Hovering over any airport bubble on the map triggers a custom tooltip page showing **Total Flights**, **Cancellation Rate%**, and a bar chart of the **Top 5 Destination Airports** — all dynamically filtered to the hovered airport.
 
@@ -221,8 +223,6 @@ Created all 6 measures in a dedicated **`_Measures`** table:
 
 > 📹 *Add your video link here:*
 
-[![Watch Demo](https://img.shields.io/badge/Watch%20Demo-YouTube-FF0000?style=for-the-badge&logo=youtube)](YOUR_VIDEO_LINK_HERE)
-
 ---
 
 ## 📁 Repository Structure
@@ -231,10 +231,10 @@ Created all 6 measures in a dedicated **`_Measures`** table:
 📦 Airline-Performance-Analytics-Dashboard
  ┣ 📂 screenshots
  ┃ ┣ 🖼️ Dashboard_Preview.png
- ┃ ┣ 🖼️ customized_Tooltip.png
- ┃ ┗ 🖼️ (add all 5 page screenshots here)
+ ┃ ┗ 🖼️ customized_Tooltip.png
  ┣ 📊 Airline_Performance_Analytics_Dashboard.pbix
  ┣ 📄 README.md
+ ┣ 📄 Report.pdf
  ┗ 🔗 Dataset: https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset-2019-2023
 ```
 
