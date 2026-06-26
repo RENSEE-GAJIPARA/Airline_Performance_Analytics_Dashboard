@@ -217,11 +217,6 @@ Created all 6 measures in a dedicated **`_Measures`** table:
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
----
-
-## 🎬 Video Walkthrough
-
-> 📹 *Add your video link here:*
 
 ---
 
